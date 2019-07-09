@@ -1,0 +1,144 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.dmg
+src/nativecoin
+src/nativecoind
+src/nativecoin-cli
+src/nativecoin-tx
+
+# Logs
+*.log
+*.status
+
+# development
+*.sublime-project
+*.sublime-workspace
+todo.txt
+reset-files.bash
+*.tar.gz
+
+# autoreconf
+Makefile.in
+aclocal.m4
+autom4te.cache/
+build-aux/config.guess
+build-aux/config.sub
+build-aux/depcomp
+build-aux/install-sh
+build-aux/ltmain.sh
+build-aux/m4/libtool.m4
+build-aux/m4/lt~obsolete.m4
+build-aux/m4/ltoptions.m4
+build-aux/m4/ltsugar.m4
+build-aux/m4/ltversion.m4
+build-aux/missing
+build-aux/compile
+build-aux/test-driver
+configure
+confdefs.h
+conftest.cpp
+conftest.err
+libtool
+src/config/nativecoin-config.h
+src/config/nativecoin-config.h.in
+src/config/stamp-h1
+share/setup.nsi
+share/qt/Info.plist
+contrib/devtools/split-debug.sh
+src/univalue/gen
+src/qt/*.moc
+src/qt/moc_*.cpp
+src/qt/forms/ui_*.h
+src/qt/test/moc*.cpp
+.deps
+.dirstamp
+.libs
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.pyc
+*.o-*
+*.patch
+.nativecoin
+*.pb.cc
+*.pb.h
+*.trs
+*.json.h
+*.raw.h
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+background.tiff*
+
+# Unit-tests
+Makefile.test
+src/test/buildenv.py
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+#lcov
+*.gcno
+/*.info
+total.coverage/
+coverage_percent.txt
+
+#build tests
+linux-coverage-build
+linux-build
+win32-build
+test/config.ini
+test/cache/*
+qa/pull-tester/run-bitcoind-for-test.sh
+qa/pull-tester/tests-config.sh
+qa/pull-tester/cache/*
+qa/pull-tester/test.*/*
+cache/*
+!src/leveldb*/Makefile
+.cproject
+.project
+/doc/doxygen/
+/nbproject/
+libbitcoinconsensus.pc
+.idea
+CMakeLists.txt
+cmake-build-debug

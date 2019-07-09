@@ -1,0 +1,8 @@
+/usr/bin/nativecoin-cli		--	gen_context(system_u:object_r:nativecoin_exec_t,s0)
+/usr/sbin/nativecoind		--	gen_context(system_u:object_r:nativecoin_exec_t,s0)
+/usr/lib(64)?/nativecoin/nativecoind		--	gen_context(system_u:object_r:nativecoin_exec_t,s0)
+
+/etc/nativecoin(/.*)?		gen_context(system_u:object_r:nativecoin_conf_t,s0)
+/var/lib/nativecoin(/.*)?		gen_context(system_u:object_r:nativecoin_var_lib_t,s0)
+
+(/var)?/run/nativecoind(/.*)?   gen_context(system_u:object_r:nativecoin_var_run_t,s0)

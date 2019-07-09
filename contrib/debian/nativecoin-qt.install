@@ -1,0 +1,6 @@
+usr/local/bin/nativecoin-qt usr/bin
+share/pixmaps/nativecoin32.xpm usr/share/pixmaps
+share/pixmaps/nativecoin16.xpm usr/share/pixmaps
+share/pixmaps/nativecoin128.png usr/share/pixmaps
+debian/nativecoin-qt.desktop usr/share/applications
+debian/nativecoin-qt.protocol usr/share/kde4/services/

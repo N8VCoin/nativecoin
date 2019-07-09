@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=nativecoin
+Comment=nativecoin P2P Cryptocurrency
+Comment[fr]=nativecoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=nativecoin, eşten eşe kriptografik sanal para birimi
+Exec=nativecoin-qt %u
+Terminal=false
+Type=Application
+Icon=nativecoin128
+MimeType=x-scheme-handler/nativecoin;
+Categories=Office;Finance;
+StartupWMClass=nativecoin-qt

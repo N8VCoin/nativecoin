@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="svg-inline--fa fa-terminal fa-w-20 fa-3x"
+   role="img"
+   aria-hidden="true"
+   viewBox="0 0 640 512"
+   focusable="false"
+   data-prefix="fas"
+   data-icon="terminal"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="terminal.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1692"
+     inkscape:window-height="882"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="320"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     class=""
+     fill="currentColor"
+     d="M 257.981 272.971 L 63.638 467.314 c -9.373 9.373 -24.569 9.373 -33.941 0 L 7.029 444.647 c -9.357 -9.357 -9.375 -24.522 -0.04 -33.901 L 161.011 256 L 6.99 101.255 c -9.335 -9.379 -9.317 -24.544 0.04 -33.901 l 22.667 -22.667 c 9.373 -9.373 24.569 -9.373 33.941 0 L 257.981 239.03 c 9.373 9.372 9.373 24.568 0 33.941 Z M 640 456 v -32 c 0 -13.255 -10.745 -24 -24 -24 H 312 c -13.255 0 -24 10.745 -24 24 v 32 c 0 13.255 10.745 24 24 24 h 304 c 13.255 0 24 -10.745 24 -24 Z"
+     id="path2"
+     style="fill:#524022;fill-opacity:1;stroke:#d09430;stroke-opacity:0.57254905;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none" />
+</svg>
