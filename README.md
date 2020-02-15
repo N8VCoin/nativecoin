@@ -78,6 +78,7 @@ The next three steps are an example of how to acquire the source and build in an
         
 Acquire the source and install dependencies.
 
+
     git clone https://github.com/N8VCoin/nativecoin
     sudo chmod -R a+rw n8v
     cd n8v/depends
